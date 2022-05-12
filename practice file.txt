@@ -1,0 +1,5 @@
+Commands
+
+ls : list files
+ls -a : list all fies including hidden
+cntrl l or cls(in windows) or clear(in linux) : clearing prompt 
