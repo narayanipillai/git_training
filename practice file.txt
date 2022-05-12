@@ -1,9 +1,12 @@
 Commands
 
+git init : to initialise git on current folder
 ls : list files
 ls -a : list all fies including hidden
 cntrl l or cls(in windows) or clear(in linux) : clearing prompt 
 git add : to add file to track
 git status : to get the status of the repo
 nano <filename> : terminal based text editorz
+git add . : stage all files(entire repo) for committing
+git commit -m "commit message" : to commit a change to master file
 
